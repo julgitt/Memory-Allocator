@@ -1,6 +1,7 @@
 # Memory allocator using segregated lists, created as part of an Operating Systems course.
 ### The solution is in the file mm.c, the rest of the files, allowing to execute the program, and test it were created by the creator of the task, not by me.
 
+[detailed description of the task](https://github.com/julgitt/Memory-Allocator/blob/main/projekt-malloc.pdf)
 
 1. ### Method used in short:
     Segregated list of free blocks with optimized boundary tags.
